@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Stack" Database="" Version="10.0.0">
+  <Project Name="SumOfDigits" Path="SumOfDigits/SumOfDigits.project" Active="No"/>
+  <Project Name="ReverseNumber" Path="ReverseDigits/ReverseDigits.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="SumOfDigits" ConfigName="Debug"/>
+      <Project Name="ReverseNumber" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="SumOfDigits" ConfigName="Release"/>
+      <Project Name="ReverseNumber" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

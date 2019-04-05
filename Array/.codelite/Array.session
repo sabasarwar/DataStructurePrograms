@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="F:\2019\MCA 2ND SEM\DS LAB PROGRAM\Array\Array.workspace">
+  <int Value="1" Name="m_selectedTab"/>
+  <wxString Value="F:\2019\MCA 2ND SEM\DS LAB PROGRAM\Array\Array.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="F:\2019\MCA 2ND SEM\DS LAB PROGRAM\Array\Array01\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="10" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\2019\MCA 2ND SEM\DS LAB PROGRAM\Array\Array02_using_template\main.cpp" Name="FileName"/>
+      <int Value="100" Name="FirstVisibleLine"/>
+      <int Value="107" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+  <wxString Value="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.inc;*.mm;*.m;*.xrc" Name="m_findInFilesMask"/>
+</Session>

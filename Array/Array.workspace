@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Array" Database="" Version="10.0.0">
+  <Project Name="Array01" Path="Array01/Array01.project" Active="No"/>
+  <Project Name="Array02_using_template" Path="Array02_using_template/Array02_using_template.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Array01" ConfigName="Debug"/>
+      <Project Name="Array02_using_template" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Array01" ConfigName="Release"/>
+      <Project Name="Array02_using_template" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
